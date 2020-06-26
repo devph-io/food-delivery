@@ -4,9 +4,9 @@ https://github.com/devph-io/food-delivery
 
 ## Core Team
 * Team Lead: [Obet Viray](https://www.facebook.com/viray.obet) 
-* UX/UI Design: [Jason Chu] (https://www.facebook.com/jasonchu009)
-* Front-end: [Elijah Lance Catli] (https://www.facebook.com/ElijahLanceCatli)
-* Back-end: [Cristian Daron] (https://www.facebook.com/xtian.dev)
+* UX/UI Design: [Jason Chu](https://www.facebook.com/jasonchu009)
+* Front-end: [Elijah Lance Catli](https://www.facebook.com/ElijahLanceCatli)
+* Back-end: [Cristian Daron](https://www.facebook.com/xtian.dev)
 * Contributors:
 
 
